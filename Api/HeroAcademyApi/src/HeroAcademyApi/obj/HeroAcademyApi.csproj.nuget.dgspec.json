@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\HeroAcademyApi.csproj": {}
+    "D:\\teste_viceri\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\HeroAcademyApi.csproj": {}
   },
   "projects": {
-    "D:\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\HeroAcademyApi.csproj": {
+    "D:\\teste_viceri\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\HeroAcademyApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\HeroAcademyApi.csproj",
+        "projectUniqueName": "D:\\teste_viceri\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\HeroAcademyApi.csproj",
         "projectName": "HeroAcademyApi",
-        "projectPath": "D:\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\HeroAcademyApi.csproj",
+        "projectPath": "D:\\teste_viceri\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\HeroAcademyApi.csproj",
         "packagesPath": "C:\\Users\\LukeGrave\\.nuget\\packages\\",
-        "outputPath": "D:\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\obj\\",
+        "outputPath": "D:\\teste_viceri\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LukeGrave\\AppData\\Roaming\\NuGet\\NuGet.Config",

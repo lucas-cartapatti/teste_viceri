@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dW3zjoJpSqRRzrR4L8YUMHx6gbwG+yoJaJu2UjcxD3oorSdoyE19vfx9CXhTbedjXl6kcOIhTue4xDvwzrBIwQ==",
+  "dgSpecHash": "HJ4luZWMGUhQHlVVbHzeQonqqhBsFKYR9DeeH1oG+Is/JymfqboM5yWyJ1vE5pqaKCGRAHTFQZLeUZrD9lrgGg==",
   "success": true,
-  "projectFilePath": "D:\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\HeroAcademyApi.csproj",
+  "projectFilePath": "D:\\teste_viceri\\teste_viceri\\Api\\HeroAcademyApi\\src\\HeroAcademyApi\\HeroAcademyApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LukeGrave\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.1\\amazon.lambda.apigatewayevents.2.4.1.nupkg.sha512",
     "C:\\Users\\LukeGrave\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.1.0\\amazon.lambda.applicationloadbalancerevents.2.1.0.nupkg.sha512",
